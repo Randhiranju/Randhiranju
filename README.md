@@ -11,7 +11,7 @@ Budding full stack developer, Security and Open Source Enthusiast
 
 #### Working upon :
 - Competitive Coding
-- DEVOPS
+- DevOps
 - Cloud Computing
 
 #### Status and Connect :
